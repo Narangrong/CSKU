@@ -13,7 +13,7 @@ public class ArrayCollection implements Collection {
     }
 
     public boolean isEmpty() {
-        return false;
+        return true;
     }
 
     public boolean contains(Object element) {
